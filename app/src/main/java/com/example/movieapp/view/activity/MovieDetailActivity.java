@@ -9,7 +9,7 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.movieapp.Movie;
+import com.example.movieapp.model.Movie;
 import com.example.movieapp.R;
 
 public class MovieDetailActivity extends AppCompatActivity {

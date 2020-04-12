@@ -1,4 +1,6 @@
-package com.example.movieapp;
+package com.example.movieapp.model;
+
+import com.example.movieapp.R;
 
 public class Movie {
 

@@ -16,7 +16,6 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.example.movieapp.Movie;
 import com.example.movieapp.R;
 import com.example.movieapp.view.fragment.MovieFragment;
 import com.example.movieapp.view.fragment.TvShowFragment;

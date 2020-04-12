@@ -11,7 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.movieapp.Movie;
+import com.example.movieapp.model.Movie;
 import com.example.movieapp.R;
 import com.example.movieapp.adapter.CardMovieAdapter;
 import com.example.movieapp.view.activity.MovieDetailActivity;
